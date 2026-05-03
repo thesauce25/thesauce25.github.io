@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["MZR63TYK3D.com.matthewsaucedo.taggabuddy"],
+        "components": [
+          { "/": "/t/*", "comment": "TaggaBuddy NFC tag URLs" }
+        ]
+      }
+    ]
+  }
+}
